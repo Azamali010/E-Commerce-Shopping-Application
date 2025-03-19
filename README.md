@@ -34,11 +34,11 @@ Below are some screenshots of the website.
 
 ![Home Page](/src/img/Home.png)
 
-![Item Page](/src/img/items.png)
+![Item Page](/src/img/Items.png)
 
-![All Items Page](/src/img/All Items.png)
+![All Items Page](/src/img/AllItems.png)
 
-![All Products Page](/src/img/All Products.png)
+![All Products Page](/src/img/Products.png)
 
 
 
